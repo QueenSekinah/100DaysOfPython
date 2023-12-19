@@ -16,5 +16,6 @@ Thank you for visiting this repository, and stay tuned for more updates!
 #### These are my projects from Day 1 - 80, where the course actually provided a solution for each project. Most of these projects are done by myself, but there are times I took a peek at the solution before completing the projects.
 
 #### Python Scripting:
+##### Link to my replit: https://replit.com/@oladelesekinah2 
 - [Band Name Generator] (Beginner/1/Project)
 - 
